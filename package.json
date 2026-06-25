@@ -1,0 +1,8 @@
+{
+  "name": "bms",
+  "private": true,
+  "scripts": {
+    "dev": "cd server && npm run dev",
+    "start": "cd server && npm start"
+  }
+}
